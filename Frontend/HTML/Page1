@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <!-- Sidebar -->
+    <aside class="sidebar">
+        <h2>Dashboard</h2>
+
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Users</a></li>
+            <li><a href="#">Orders</a></li>
+            <li><a href="#">Products</a></li>
+            <li><a href="#">Logout</a></li>
+        </ul>
+    </aside>
+
+    <!-- Main -->
+    <main class="main">
+
+        <header>
+            <h1>Admin Panel</h1>
+        </header>
+
+        <div class="cards">
+
+            <div class="card">Users</div>
+            <div class="card">Orders</div>
+            <div class="card">Products</div>
+            <div class="card">Sales</div>
+            <div class="card">Revenue</div>
+            <div class="card">Visitors</div>
+            <div class="card">Reports</div>
+            <div class="card">Messages</div>
+
+        </div>
+
+    </main>
+
+</div>
+
+</body>
+</html>
