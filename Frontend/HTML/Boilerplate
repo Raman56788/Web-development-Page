@@ -1,0 +1,19 @@
+ <!--
+Topic: HTML Boilerplate (Basic Structure)
+Description: This is the basic structure of every HTML page.
+-->
+------------------------------------------------------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Boilerplate</title>
+</head>
+<body>
+
+    <h1>HTML Boilerplate</h1>
+    <p>This is the basic structure of an HTML page.</p>
+
+</body>
+</html>
